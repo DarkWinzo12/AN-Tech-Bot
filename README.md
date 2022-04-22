@@ -120,7 +120,7 @@ WhatsAsena - Asena Userbot යනු සංවර්ධනය සඳහා ව�
 Repl.it is less stable. Try Termux instead for qrcode generation.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/AN-Tech-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkWinzo12/AN-Tech-Bot.git)
 
 ### The Hard Method(Not Supported for this version!!)
 ```js
